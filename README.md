@@ -1,3 +1,3 @@
 # Analyze-Chopstick-Length
 
-Analysis of a dataset using preliminary statistics.
+Analysis of the given dataset using preliminary statistics.
